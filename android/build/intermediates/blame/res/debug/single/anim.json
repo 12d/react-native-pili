@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/chen/Documents/workspace/mango/js/node_modules/react-native-pili/android/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/chen/.android/build-cache/f80a7f2e23dedec28592ccafbea84aaad4b3864d/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/chen/Documents/workspace/mango/js/node_modules/react-native-pili/android/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/chen/.android/build-cache/8b18fdd96e46daf5ed19a3e890c39aff175f199b/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/chen/Documents/workspace/mango/js/node_modules/react-native-pili/android/build/intermediates/res/merged/debug/anim/slide_up.xml",
+        "source": "/Users/chen/.android/build-cache/8b18fdd96e46daf5ed19a3e890c39aff175f199b/output/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Users/chen/Documents/workspace/mango/js/node_modules/react-native-pili/android/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/chen/.android/build-cache/f80a7f2e23dedec28592ccafbea84aaad4b3864d/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/chen/Documents/workspace/mango/js/node_modules/react-native-pili/android/build/intermediates/res/merged/debug/anim/slide_down.xml",
+        "source": "/Users/chen/.android/build-cache/8b18fdd96e46daf5ed19a3e890c39aff175f199b/output/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/chen/Documents/workspace/mango/js/node_modules/react-native-pili/android/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/chen/.android/build-cache/f80a7f2e23dedec28592ccafbea84aaad4b3864d/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/chen/Documents/workspace/mango/js/node_modules/react-native-pili/android/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/chen/.android/build-cache/f80a7f2e23dedec28592ccafbea84aaad4b3864d/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/chen/Documents/workspace/mango/js/node_modules/react-native-pili/android/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/chen/.android/build-cache/f80a7f2e23dedec28592ccafbea84aaad4b3864d/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/chen/Documents/workspace/mango/js/node_modules/react-native-pili/android/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/chen/.android/build-cache/f80a7f2e23dedec28592ccafbea84aaad4b3864d/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/chen/Documents/workspace/mango/js/node_modules/react-native-pili/android/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/chen/.android/build-cache/f80a7f2e23dedec28592ccafbea84aaad4b3864d/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/chen/Documents/workspace/mango/js/node_modules/react-native-pili/android/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/Users/chen/.android/build-cache/8b18fdd96e46daf5ed19a3e890c39aff175f199b/output/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/chen/Documents/workspace/mango/js/node_modules/react-native-pili/android/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/chen/.android/build-cache/8b18fdd96e46daf5ed19a3e890c39aff175f199b/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/chen/Documents/workspace/mango/js/node_modules/react-native-pili/android/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/chen/.android/build-cache/f80a7f2e23dedec28592ccafbea84aaad4b3864d/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/chen/Documents/workspace/mango/js/node_modules/react-native-pili/android/build/intermediates/res/merged/debug/anim/fade_out.xml",
+        "source": "/Users/chen/.android/build-cache/8b18fdd96e46daf5ed19a3e890c39aff175f199b/output/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/chen/Documents/workspace/mango/js/node_modules/react-native-pili/android/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/chen/.android/build-cache/f80a7f2e23dedec28592ccafbea84aaad4b3864d/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/chen/Documents/workspace/mango/js/node_modules/react-native-pili/android/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/chen/.android/build-cache/f80a7f2e23dedec28592ccafbea84aaad4b3864d/output/res/anim/abc_slide_out_bottom.xml"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/chen/Documents/workspace/mango/js/node_modules/react-native-pili/android/build/intermediates/res/merged/androidTest/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/chen/.android/build-cache/f80a7f2e23dedec28592ccafbea84aaad4b3864d/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/chen/Documents/workspace/mango/js/node_modules/react-native-pili/android/build/intermediates/res/merged/androidTest/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/chen/.android/build-cache/f80a7f2e23dedec28592ccafbea84aaad4b3864d/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/chen/Documents/workspace/mango/js/node_modules/react-native-pili/android/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/chen/.android/build-cache/f80a7f2e23dedec28592ccafbea84aaad4b3864d/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/chen/Documents/workspace/mango/js/node_modules/react-native-pili/android/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/chen/.android/build-cache/f80a7f2e23dedec28592ccafbea84aaad4b3864d/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/chen/Documents/workspace/mango/js/node_modules/react-native-pili/android/build/intermediates/res/merged/androidTest/debug/color/abc_search_url_text.xml",
+        "source": "/Users/chen/.android/build-cache/f80a7f2e23dedec28592ccafbea84aaad4b3864d/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/chen/Documents/workspace/mango/js/node_modules/react-native-pili/android/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/chen/.android/build-cache/f80a7f2e23dedec28592ccafbea84aaad4b3864d/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/chen/Documents/workspace/mango/js/node_modules/react-native-pili/android/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/chen/.android/build-cache/f80a7f2e23dedec28592ccafbea84aaad4b3864d/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/chen/Documents/workspace/mango/js/node_modules/react-native-pili/android/build/intermediates/res/merged/androidTest/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/chen/.android/build-cache/f80a7f2e23dedec28592ccafbea84aaad4b3864d/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/chen/Documents/workspace/mango/js/node_modules/react-native-pili/android/build/intermediates/res/merged/androidTest/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/chen/.android/build-cache/f80a7f2e23dedec28592ccafbea84aaad4b3864d/output/res/color/switch_thumb_material_light.xml"
+    }
+]
