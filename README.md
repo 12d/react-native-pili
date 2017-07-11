@@ -2,9 +2,12 @@
 
 ##Introduction
 
-这*可能*是**第一个**在 React Native 上实现全功能的直播 SDK 了，底层基于 [Pili-SDK](https://github.com/pili-engineering)，把 iOS 和 Android 的 API 尽量统一。
+最近项目需求，所以找基于react-native的直播插件，在github上找到了唯一的一个[https://github.com/buhe/react-native-pili](https://github.com/buhe/react-native-pili)，底层基于 [Pili-SDK](https://github.com/pili-engineering)，原作者是七牛的员工，后来据说离职了，所以这个分支也没人维护了，尝试过后，发现很多功能缺失/bug， 且ReactNative的SDK版本很老，于是自己托管了一份，维护。
 
-2.0 版本为了更容易集成第三方 SDK ，对原有的 React Native 项目进行了改造，iOS 的依赖采用了 Cocoapod 进行管理，当然你也可以采用原来的方式，毕竟是可以共存的。为此准备了一个 [Starter Kit](https://github.com/buhe/pili-startkit) 可以查看如何进行集成。
+##Change Log
+1. 升级·react-native· SDK版本到`0.45`
+2. 解决直播画面推流比例问题
+3. 解决直播回放横竖屏问题
 
 
 ##Installation
