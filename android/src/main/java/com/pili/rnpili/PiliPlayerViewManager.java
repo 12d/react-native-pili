@@ -2,6 +2,7 @@ package com.pili.rnpili;
 
 import android.util.Log;
 import android.view.View;
+import android.view.WindowManager;
 
 import com.facebook.react.bridge.Arguments;
 import com.facebook.react.bridge.LifecycleEventListener;
@@ -194,6 +195,7 @@ public class PiliPlayerViewManager extends SimpleViewManager<PLVideoView> implem
         this.started = started;
         if (started) {
             mVideoView.start();
+            reactContext.getCurrentActivity().getWindow().addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
 
         } else {
             mVideoView.pause();
@@ -268,7 +270,7 @@ public class PiliPlayerViewManager extends SimpleViewManager<PLVideoView> implem
             Log.d(TAG, "onSeekComplete !");
         }
     };
-//    public PLMediaPlayer.OnVideoSizeChangedListener mOnVideoSizeChangedListener =
+    //    public PLMediaPlayer.OnVideoSizeChangedListener mOnVideoSizeChangedListener =
     public PLMediaPlayer.OnVideoSizeChangedListener mOnVideoSizeChangedListener = new PLMediaPlayer.OnVideoSizeChangedListener() {
         @Override
         public void onVideoSizeChanged(PLMediaPlayer plMediaPlayer, int width, int height) {
@@ -297,6 +299,7 @@ public class PiliPlayerViewManager extends SimpleViewManager<PLVideoView> implem
         if(mVideoView!=null){
             mVideoView.stopPlayback();
         }
+        reactContext.getCurrentActivity().getWindow().clearFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
     }
 
     public int getTargetId() {
