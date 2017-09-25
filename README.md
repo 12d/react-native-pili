@@ -13,24 +13,21 @@
 ##Installation
 
 ```bash
-git clone https://github.com/buhe/pili-startkit YourPorjectName
-
-cd YourPorjectName/js && npm install
-
-cd ../ios && pod install
+npm install git+https://github.com/12d/react-native-pili.git
 ```
 
 ###Javascript
 
 ```bash
-cd YourPorjectName/js
+cd YourPorjectName
 npm start
 ```
 
 ###iOS
-1. Open ios/YourPorjectName.xcworkspace (这里请注意是打开 .xcworkspace!请确认)
-2. Just run your project (Cmd+R)
-3. 如果是 iOS 10 需要在 info 中额外添加如下权限:
+1. cd node_modules/react-native-pili/ios & pod install
+2. Open ios/*.xcworkspace (这里请注意是打开 .xcworkspace!请确认)
+3. Just run your project (Cmd+R)
+4. 如果是 iOS 10 需要在 info 中额外添加如下权限:
 ```
     <key>NSCameraUsageDescription</key>    
     <string>cameraDesciption</string>
